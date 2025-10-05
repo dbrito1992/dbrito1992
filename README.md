@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**dbrito1992/dbrito1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Você pode misturar Markdown com HTML para deixar mais estilizado.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 2. README do Perfil do GitHub
+Se você quiser um **perfil estilizado** no GitHub (como uma página inicial), siga este passo:
+
+1. Vá no GitHub e crie um novo repositório.
+2. O nome do repositório deve ser **exatamente o mesmo do seu usuário** (ex.: `forcaweb` se seu usuário for `forcaweb`).
+3. Marque a opção **“Add a README file”**.
+4. Edite o `README.md` para colocar as informações personalizadas.
+
+Exemplo:
+
+```markdown
+# 👋 Olá, eu sou o D Brito  
+
+🌐 Desenvolvedor Full Stack | Java Spring + Next.js  
+📌 Focado em sistemas de e-commerce e integrações de pagamento  
+
+## 🚀 Tecnologias
+- ⚡ Java, Spring Boot
+- ⚡ TypeScript, Next.js
+- ⚡ PostgreSQL, MongoDB
+
+## 📊 Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+
+## 🌎 Onde me encontrar
+- [LinkedIn](https://linkedin.com/in/seu-perfil)
+- [Portfólio](https://seusite.com)
