@@ -25,8 +25,8 @@ Exemplo:
 - ⚡ PostgreSQL, MongoDB
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=dbrito1992&show_icons=true&theme=tokyonight)
 
 ## 🌎 Onde me encontrar
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- [Portfólio](https://seusite.com)
+- [LinkedIn](https://linkedin.com/in/diego-brito-a43690266)]
+- [Portfólio](https://dev.forcaweb.net/)
