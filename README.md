@@ -1,20 +1,4 @@
-
-Você pode misturar Markdown com HTML para deixar mais estilizado.
-
----
-
-## 🔹 2. README do Perfil do GitHub
-Se você quiser um **perfil estilizado** no GitHub (como uma página inicial), siga este passo:
-
-1. Vá no GitHub e crie um novo repositório.
-2. O nome do repositório deve ser **exatamente o mesmo do seu usuário** (ex.: `forcaweb` se seu usuário for `forcaweb`).
-3. Marque a opção **“Add a README file”**.
-4. Edite o `README.md` para colocar as informações personalizadas.
-
-Exemplo:
-
-```markdown
-# 👋 Olá, eu sou o D Brito  
+# 👋 Olá, eu sou o Diego Brito  
 
 🌐 Desenvolvedor Full Stack | Java Spring + Next.js  
 📌 Focado em sistemas de e-commerce e integrações de pagamento  
@@ -25,8 +9,10 @@ Exemplo:
 - ⚡ PostgreSQL, MongoDB
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=dbrito1992&show_icons=true&theme=tokyonight)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=dbrito1992&show_icons=true&theme=tokyonight)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dbrito1992&layout=compact&theme=tokyonight)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dbrito1992&theme=tokyonight)
 
 ## 🌎 Onde me encontrar
-- [LinkedIn](https://linkedin.com/in/diego-brito-a43690266)]
+- [LinkedIn](https://linkedin.com/in/diego-brito-a43690266)
 - [Portfólio](https://dev.forcaweb.net/)
