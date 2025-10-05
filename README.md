@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Diego Brito  
 
-🌐 Desenvolvedor Full Stack | Java Spring + Next.js  
+🌐 Desenvolvedor Full Stack | Java Spring + Next.js 
 📌 Focado em sistemas de e-commerce e integrações de pagamento  
 
 ## 🚀 Tecnologias
 - ⚡ Java, Spring Boot
-- ⚡ TypeScript, Next.js
-- ⚡ PostgreSQL, MongoDB
+- ⚡ TypeScript, Next.js, Nestjs
+- ⚡ PostgreSQL, Mysql
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=dbrito1992&show_icons=true&theme=tokyonight)  
@@ -16,3 +16,4 @@
 ## 🌎 Onde me encontrar
 - [LinkedIn](https://linkedin.com/in/diego-brito-a43690266)
 - [Portfólio](https://dev.forcaweb.net/)
+- [Forum](https://forum.forcaweb.net/)
